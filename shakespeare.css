@@ -1,0 +1,31 @@
+.speech{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.stage-direction{
+    font-family: cursive;
+    font-size: 18px;
+    color: black;
+    background-color: lightblue;
+}
+.stage-direction:hover{
+    color: white;
+    background-color: red;
+    
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.second-lord{
+    color: indigo;
+}
+.first-lord{
+    color: indianred;
+}
+.bertram{
+    color:yellowgreen;
+}
+
