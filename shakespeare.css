@@ -11,8 +11,7 @@
 }
 .stage-direction:hover{
     color: white;
-    background-color: red;
-    
+    background-color: red;   
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
