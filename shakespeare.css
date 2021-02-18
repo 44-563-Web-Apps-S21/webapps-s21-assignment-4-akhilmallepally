@@ -53,3 +53,22 @@ th{
 tr:nth-child(even){
     background-color: lightpink;
 }
+
+.navbar-horizontal{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-horizontal li{
+    float: left;
+    color: brown;
+    background-color: lightskyblue;
+}
+.navbar-horizontal a{
+    display: block;
+    padding: 10px;
+}
+.navbar-horizontal a:hover{
+    background-color: cadetblue;
+    color: white;
+}
