@@ -28,3 +28,21 @@
     color:yellowgreen;
 }
 
+table{
+    color:maroon;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid gray;
+}
+
+th{
+    background-color: lightcyan;
+}
+
+tbody tr:nth-child(even){
+    background-color: lightpink;
+}
